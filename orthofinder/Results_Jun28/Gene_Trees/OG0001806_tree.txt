@@ -1,0 +1,1 @@
+((Azeb-peropsin1:0.0780423,mikado.HiC_scaffold_9.0G1025.1:0.0560627):0.129487,((Tgra-peropsin:0.00360765,KUTeg_003026:0.11706):0.0695842,Sbro-peropsin:0.0738928):0.129487);

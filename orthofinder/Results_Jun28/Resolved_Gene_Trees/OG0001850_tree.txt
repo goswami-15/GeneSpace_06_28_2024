@@ -1,0 +1,1 @@
+((KUTeg_019464:0.34057,EVM0018575.1:0.147427)n1:0.179685,(mikado.HiC_scaffold_18.0G163.2:1.26152e-06,(mikado.HiC_scaffold_18.0G163.1:1.26152e-06,mikado.HiC_scaffold_1.0G655.1:0.392884)n3:0.0981343)n2:0.179685)n0;

@@ -1,0 +1,1 @@
+((Sbro-opnGq_nc1:0.105029,Tgra-opnGq-nc1:0.129431)n1:0.191171,(Azeb-opnGqn-nc1:0.143583,(mikado.HiC_scaffold_9.0G95.1:0.308657,Azeb-opnGq-nc2:1.25314e-06)n3:0.22954)n2:0.191171)n0;

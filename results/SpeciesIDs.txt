@@ -1,0 +1,3 @@
+0: Azeb.fa
+1: Sbro.fa
+2: Tgra.fa

@@ -1,0 +1,1 @@
+(EVM0023899.1:0.883459,((mikado.HiC_scaffold_16.0G1009.1:0.557781,mikado.HiC_scaffold_16.0G1008.1:0.555009):0.637957,mikado.HiC_scaffold_16.0G131.1:0.643176):0.883459);

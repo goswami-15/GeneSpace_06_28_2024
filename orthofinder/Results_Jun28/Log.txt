@@ -1,0 +1,13 @@
+2024-06-28 15:58:11 : Started OrthoFinder version 2.5.5
+Command Line: /home/sg/anaconda3/envs/orthofinder/bin/orthofinder -f /home/sg/Documents/GS_06_28_24/tmp -t 4 -a 1 -X -o /home/sg/Documents/GS_06_28_24/orthofinder
+
+WorkingDirectory_Base: /home/sg/Documents/GS_06_28_24/orthofinder/Results_Jun28/WorkingDirectory/
+
+Species used: 
+0: Azeb.fa
+1: Sbro.fa
+2: Tgra.fa
+
+FN_Orthogroups: /home/sg/Documents/GS_06_28_24/orthofinder/Results_Jun28/WorkingDirectory/clusters_OrthoFinder_I1.5.txt_id_pairs.txt
+WorkingDirectory_Trees: /home/sg/Documents/GS_06_28_24/orthofinder/Results_Jun28/WorkingDirectory/
+2024-06-28 16:12:42 : OrthoFinder run completed
